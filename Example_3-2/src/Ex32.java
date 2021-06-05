@@ -12,6 +12,7 @@ public class Ex32 {
 			n = scan.nextInt();
 		}
 		System.out.println("정수의 개수는 "+cnt + "개이며 평균은 "+avg/cnt+"입니다.");
+		scan.close();
 	}
-
+	
 }
